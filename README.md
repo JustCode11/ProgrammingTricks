@@ -28,8 +28,11 @@ for designing the program.
 
 ## Preview
 
-![Main](./ProgrammingTricks/Content/gif/programmingTricksMain.gif)
+![Main](./ProgrammingTricks/Content/gifs/programmingTricksMain.gif)
+*Overview*
 
-![Login](./ProgrammingTricks/Content/gif/programmingTricksLogin.gif)
+![Login](./ProgrammingTricks/Content/gifs/programmingTricksLogin.gif)
+*Login process*
 
-![Create](./ProgrammingTricks/Content/gif/programmingTricksCreate.gif)
+![Create](./ProgrammingTricks/Content/gifs/programmingTricksCreate.gif)
+*Create new entrie*
