@@ -1,0 +1,27 @@
+﻿/*.content-container {
+    width: 500px;
+}*/
+
+header {
+    margin-bottom: 20px;
+}
+
+.text-grey {
+    color: #ccc;
+}
+
+.border-grey-solid {
+    border: 1px solid #dee2e6;
+}
+
+.font-size-lg {
+    font-size: 1.2em;
+}
+
+.font-size-sm {
+    font-size: 0.8em;
+}
+
+.trick-table-container {
+    min-height: 325px;
+}
