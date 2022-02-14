@@ -9,13 +9,13 @@ change his password there.
 ## Technical details
 
 This program is created with ASP.NET and webforms. I used ASP.NET identity for the authentication and authorization
-of the user. The data is saved in a local SQL Database and i used entity framework to access the data. I used a
-gridview for all the blog entries that can be sorted by date or by the programming languages and also uses pagination.
-From there you can select a entries and the details are shown in a detailsview.
+of the user. The data is saved in a local SQL Database and I used entity framework to access the data. I used a
+gridview for all the blog entries. This entries can be sorted by date or by the programming languages.
+From there you can select a entry and the details of that entry are shown in a detailsview.
 The detailsview contains a listview with all the comments for this specific entry. You can only comment or create a
 new blog entry if you are logged in. The form where you insert a new entry uses validation controls and a dropdown field
-that uses the data from the database. The program has master page where the header bar is located and the packages
-like bootstrap and jquery are inserted. For the log in, sign in and password change the methods from ASP.NET identity
+that uses the data from the database. The program has a master page where the header bar is located and the packages
+like bootstrap and jquery are inserted. For the log in, sign in and password change, the methods from ASP.NET identity
 are used. In the comment section the comments that the blog author has made are marked. I used mostly bootstrap
 for designing the program.
 
